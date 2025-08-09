@@ -27,6 +27,6 @@ Looking to collaborate with:
 - Fellow learners & educators
 
 ## 📌 Why It Matters
-Most people struggle to enter Web3 because it's too technical or confusing. EduChain ID flips the script — we make it *clear, **relevant, and **practical*.
+Most people struggle to enter Web3 because it's too technical or confusing. EduChain ID flips the script — we make it clear, relevant, and practical.
 
 Let’s build the future of education — together.
