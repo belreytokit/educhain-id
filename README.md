@@ -1,4 +1,3 @@
-p align="center">
   <img src="https://github.com/belreytokit/educhain-id/blob/main/EduChainID-logo.png.jpg?raw=true" alt="EduChain ID Logo" width="220"/>
 </p>
 
