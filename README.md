@@ -1,6 +1,6 @@
-  <img src="https://github.com/belreytokit/educhain-id/blob/main/EduChainID-logo.png.jpg?raw=true" alt="EduChain ID Logo" width="220"/>
+<p align="center">
+  <img src="EduChainID-logo.png.jpg" alt="EduChain ID Logo" width="200"/>
 </p>
-
 <h2 align="center">EduChain ID</h2>
 <p align="center"><i>Bridging Web3 education to everyone — clear, inclusive, and rewarding.</i></p>
 
